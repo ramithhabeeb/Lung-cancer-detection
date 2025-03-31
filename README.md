@@ -68,18 +68,6 @@ The CNN model is built using TensorFlow/Keras and consists of:
 - TensorFlow >= 2.x.
 - Required Python libraries: `numpy`, `matplotlib`, `scikit-learn`.
 
-### Steps to Run the Project
-1. Clone the repository:
-git clone https://github.com/ramithhabeeb/lung-cancer-detection.git
-cd lung-cancer-detection
-2. Install dependencies:
-pip install -r requirements.txt
-3. Train the model:
-python train_model.py
-4. Evaluate the model:
-python evaluate_model.p
-
-
 ---
 
 ## Visualization
