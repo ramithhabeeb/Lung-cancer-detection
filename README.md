@@ -85,7 +85,8 @@ python evaluate_model.p
 ## Visualization
 The training loss over epochs is visualized below:
 
-![Training Loss](training_loss_plot.png)
+![image](https://github.com/user-attachments/assets/ce0e17a4-845b-4152-adba-ce3cde58da3a)
+
 
 ---
 
